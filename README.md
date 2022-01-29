@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="GIF" src="https://user-images.githubusercontent.com/67932543/151657428-60f0c33f-4991-423f-9f27-2bc8c6362371.png"/>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Toolbox</h3>
 
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565](https://user-images.githubusercontent.com/67932543/151657843-db9c558e-7888-4d63-9562-af563f70f51e.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657856-e08132d3-337e-4f6d-97d1-e243678c38ff.svg)
@@ -29,4 +29,10 @@
 
 <br/>
 
-<p align="center"><img src = "https://user-images.githubusercontent.com/67932543/151657409-3973cb28-2c85-49da-aafd-0e6b4bcf4abe.png" alt = "animated" /></p>
+<img align="left" width="400" alt="GIF" src= "https://user-images.githubusercontent.com/67932543/151657409-3973cb28-2c85-49da-aafd-0e6b4bcf4abe.png"/>
+
+## My Profession
+- <img align="left" alt="CV" width="22px" src="https://user-images.githubusercontent.com/67932543/151658740-11ed1654-fc24-40f6-bf3d-7a0151ed1c82.png" />  **Computer Vision**
+- <img align="left" alt="FC" width="22px" src="https://user-images.githubusercontent.com/67932543/151658683-519ce69d-1366-44c2-9738-f1130bd14c16.png" />  **Time Series Forecasting**
+<br/>
+
