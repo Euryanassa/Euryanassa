@@ -9,17 +9,18 @@
 <h3> 🛠 &nbsp;What I can!</h3>
 
 - 💻 &nbsp;
+  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
+
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
   ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657772-0ba63e33-66f3-49ad-b18f-cf75e21e29a9.svg)
+  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657811-e932a706-6386-4fd2-9cd3-253609907454.svg)
 
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-  ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
-  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
