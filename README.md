@@ -1,4 +1,12 @@
 <h2>Hey Everyone!, I'm Altemur!!! </h2>
+<img src="https://user-images.githubusercontent.com/67932543/151660248-c3eab3ce-1279-47f0-baef-5b36a70ccd97.png" align='left' width='27%'>
+<h3> 💻 &nbsp;About Me</h3>
+
+
+- 🎓 I am MSc Machine Learning Engineer | Data Scientist!
+
+Ever since I was kid, technology and science has been my passion. I still remember observing many technoligical devices and I was trying to find out, whats the logic behind it and how it really works. This curiosity has pushed me to get into the world of tech and engineering. During the education of my bechalors degree, I have met with signal and image processing. Through these lessons, I had the opportunity to explore the world of Data Science and Machine Learning. Since then, I am improving myself day by day. I always try to move fast, iterate quickly, and solve global problems with Machine Learning. Today, I am working as Machine Learning Engineer in R&D team and Master of Science student at the field of Big Data & Business Analytics at Istanbul Technical University!
+
   
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/AybzWPm64L8AAAAM/chatpark.gif"/>
 
@@ -59,3 +67,16 @@ class DataScientist:
 
 me = DataScientist()
 ```
+<h3> 💻 &nbsp;Summary</h3>
+<img align="right" width="260" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
+- 🤠 Languages & Databases: Python, MATLAB, C/C++, SQL, MySQL, MSSQL, MongoDB, Cassandra, Redis 
+
+- 👽 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras, Scikit-Learn, Open-CV, Prophet, NeuralProphet, XGBoost, LGBoost, Statsmodels, SciPy, Pyodbc, Mysql.connector, PyMongo, PyQT5
+
+- 👾 Learning Algorithms and Models: Linear-NonLinear Regression, Loess Regression, Logistic Regression, KNN, Decision Trees, Support Vector Machine, K-Means Clustering, DBSCAN, Aggloremerative Clustering, ANN, DNN, CNN, RNN, LSTM, GRU, Metric Learning, Reinforcement Learning, Generative Adversarial Networks
+
+- 🤖 Computer Vision: Open-CV, Pillow, CNN, Metric Learning, YOLO
+<img align="left" width="260" alt="GIF" src="https://c.tenor.com/MDcGuSztcboAAAAC/stock-market-roller-coaster.gif"/>
+- 🎃 Time Series: AR, MA, ARMA, ARIMA, SARIMA, Linear Regression, Random Forest Regressor, Support Vector Regressor, XGBoost, LGBMachine, LSTM, ConvolutionalLSTM, RNN, GRU, CNN, MLP
+
+- 🤡 Other Topics: Recommender Systems, Signal Processing, Audio Signal Processing, Digital Signal Processing, Speech Processing, Financial and Risk Management, Linear Optimization, Integer Optimization, Object Oriented Programming, Database Management and Big Data, Statistics, Data Mining
