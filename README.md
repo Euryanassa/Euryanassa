@@ -1,6 +1,6 @@
 <h2>Hey Everyone!, I'm Altemur!!! </h2>
   
-<img align="right" width="400" alt="GIF" src="https://user-images.githubusercontent.com/67932543/151657428-60f0c33f-4991-423f-9f27-2bc8c6362371.png"/>
+<img align="right" width="260" alt="GIF" src="https://c.tenor.com/AybzWPm64L8AAAAM/chatpark.gif"/>
 
 
 <h3> 🛠 &nbsp;Toolbox</h3>
@@ -28,11 +28,36 @@
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 <br/>
+![image]()
 
-<img align="left" width="400" alt="GIF" src= "https://user-images.githubusercontent.com/67932543/151657409-3973cb28-2c85-49da-aafd-0e6b4bcf4abe.png"/>
+
+<img align="left" width="400" alt="GIF" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4767nk0drj4rjlbzcizs8nmzqyg8mpcd9elo5pabyw&rid=giphy.gif&ct=g"/>
 
 ## My Profession
 - <img align="left" alt="CV" width="22px" src="https://user-images.githubusercontent.com/67932543/151658740-11ed1654-fc24-40f6-bf3d-7a0151ed1c82.png" />  **Computer Vision**
 - <img align="left" alt="FC" width="22px" src="https://user-images.githubusercontent.com/67932543/151658683-519ce69d-1366-44c2-9738-f1130bd14c16.png" />  **Time Series Forecasting**
+- <img align="left" alt="TF" width="22px" src="https://user-images.githubusercontent.com/67932543/151658916-94b770a3-1b69-4a54-9607-2c55d1dc1887.png" />  **Deep and Artificial Neural Networks**
+- <img align="left" alt="TaF" width="22px" src="https://user-images.githubusercontent.com/67932543/151658958-e4f08dcf-920e-4ae1-b315-b5de8349acfb.png" />  **Machine Learning Methods**
+- <img align="left" alt="TsF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659501-2d6364ab-5211-4b5b-91b7-2c0f3aea92da.png" />  **Reinforcement Learning**
+- <img align="left" alt="TdF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659550-b4a62ef9-363b-4ae3-9b22-c0176f8bcc18.png" />  **Audio, Speech and Signal Processing**
+- <img align="left" alt="TfF" width="20px" src="https://user-images.githubusercontent.com/67932543/151659609-af8f6f19-7976-4bba-ab19-f422a52dd422.png" />  **Web Development with Flask**
+- <img align="left" alt="TwF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659686-e49c7855-e953-465b-b260-e3dee3f9a4e3.png" />  **Database Management(SQL, NoSQL)**
+
 <br/>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class DataScientist:
+    def __init__(self):
+        self.name    = "Altemur Celikayar"
+        self.role    = "Machine Learning Engineer"
+        self.contact = "altemur.celikayar@gmail.com"
+        self.work    = "AI Solutions as ML Engineer"
+        self.learn   = "Road to MLOps"
+
+me = DataScientist()
+```
 
