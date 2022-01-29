@@ -59,7 +59,3 @@ class DataScientist:
 
 me = DataScientist()
 ```
-<p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
-</p>
