@@ -28,8 +28,6 @@
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 <br/>
-![image]()
-
 
 <img align="left" width="400" alt="GIF" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4767nk0drj4rjlbzcizs8nmzqyg8mpcd9elo5pabyw&rid=giphy.gif&ct=g"/>
 
@@ -61,4 +59,7 @@ class DataScientist:
 
 me = DataScientist()
 ```
-
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+</p>
