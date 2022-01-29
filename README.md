@@ -69,6 +69,7 @@ me = DataScientist()
 ```
 <h3> 💻 &nbsp;Summary</h3>
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
+
 - 🤠 Languages & Databases: Python, MATLAB, C/C++, SQL, MySQL, MSSQL, MongoDB, Cassandra, Redis 
 
 - 👽 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras, Scikit-Learn, Open-CV, Prophet, NeuralProphet, XGBoost, LGBoost, Statsmodels, SciPy, Pyodbc, Mysql.connector, PyMongo, PyQT5
