@@ -19,8 +19,8 @@
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b](https://user-images.githubusercontent.com/67932543/151657933-ab183ec4-12f5-453e-a46e-44ab9b255909.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657935-dfd03da3-79c3-43b4-b22d-05b2d6a82827.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657940-686d484b-6229-449a-8c32-ebdf2eea2b6f.svg)
-
-
+  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657953-8d50a9fd-1ea3-452f-8367-911665e0a7c6.svg)
+  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657984-efcbcc7e-7cf7-451d-91ce-e6734ceda8d2.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657772-0ba63e33-66f3-49ad-b18f-cf75e21e29a9.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657811-e932a706-6386-4fd2-9cd3-253609907454.svg)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d3237333338653f7374796c653d666f722d7468652d6261646765266c6f676f3d4f70656e4356266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657901-1535d90d-d7e4-4e69-a71c-6e620d842aa0.svg)
@@ -28,26 +28,5 @@
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657918-3ddeb137-ef9c-489e-ae6f-829ce95f11a3.svg)
   ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TKINTER](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=tkinter)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![SWING](https://img.shields.io/badge/-Swing-333333?style=flat&logo=Swing)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![CockroachDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqkserver)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 <br/>
