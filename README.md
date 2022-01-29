@@ -40,7 +40,7 @@
 - <img align="left" alt="TaF" width="22px" src="https://user-images.githubusercontent.com/67932543/151658958-e4f08dcf-920e-4ae1-b315-b5de8349acfb.png" />  **Machine Learning Methods**
 - <img align="left" alt="TsF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659501-2d6364ab-5211-4b5b-91b7-2c0f3aea92da.png" />  **Reinforcement Learning**
 - <img align="left" alt="TdF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659550-b4a62ef9-363b-4ae3-9b22-c0176f8bcc18.png" />  **Audio, Speech and Signal Processing**
-- <img align="left" alt="TfF" width="16px" src="https://user-images.githubusercontent.com/67932543/151659609-af8f6f19-7976-4bba-ab19-f422a52dd422.png" />  **Web Development with Flask**
+- <img align="left" alt="TfF" width="18px" src="https://user-images.githubusercontent.com/67932543/151659609-af8f6f19-7976-4bba-ab19-f422a52dd422.png" />  **Web Development with Flask**
 - <img align="left" alt="TwF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659686-e49c7855-e953-465b-b260-e3dee3f9a4e3.png" />  **Database Management(SQL, NoSQL)**
 
 <br/>
