@@ -82,3 +82,4 @@ me = DataScientist()
 - 🎃 Time Series: AR, MA, ARMA, ARIMA, SARIMA, Linear Regression, Random Forest Regressor, Support Vector Regressor, XGBoost, LGBMachine, LSTM, ConvolutionalLSTM, RNN, GRU, CNN, MLP
 
 - 🤡 Other Topics: Recommender Systems, Signal Processing, Audio Signal Processing, Digital Signal Processing, Speech Processing, Financial and Risk Management, Linear Optimization, Integer Optimization, Object Oriented Programming, Database Management and Big Data, Statistics, Data Mining
+
