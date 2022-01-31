@@ -3,7 +3,7 @@
 <h3> 💻 &nbsp;About Me</h3>
 
 
-- 🎓 I am MSc Machine Learning Engineer | Data Scientist!
+- 🎓 I am MSc Machine Learning Engineer | Data Scientist
 
 Ever since I was kid, technology and science has been my passion. I still remember observing many technoligical devices and I was trying to find out, whats the logic behind it and how it really works. This curiosity has pushed me to get into the world of tech and engineering. During the education of my bechalors degree, I have met with signal and image processing. Through these lessons, I had the opportunity to explore the world of Data Science and Machine Learning. Since then, I am improving myself day by day. I always try to move fast, iterate quickly, and solve global problems with Machine Learning. Today, I am working as Machine Learning Engineer in R&D team and Master of Science student at the field of Big Data & Business Analytics at Istanbul Technical University!
 
