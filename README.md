@@ -1,5 +1,6 @@
 <h2>Hey Everyone!, I'm Altemur!!! </h2>
-<img src="https://user-images.githubusercontent.com/67932543/151660248-c3eab3ce-1279-47f0-baef-5b36a70ccd97.png" align='left' width='27%'>
+
+<img align="left" width="400" alt="GIF" src= "https://c.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif"/>
 <h3> 💻 &nbsp;About Me</h3>
 
 
