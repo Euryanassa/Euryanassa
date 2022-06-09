@@ -66,7 +66,7 @@ class MachineLearningEngineer:
         self.work    = "Machine Learning with Big Data"
         self.learn   = "MLOps & ML Core"
 
-me = DataScientist()
+me = MachineLearningEngineer()
 ```
 <h3> 💻 &nbsp;Summary</h3>
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
