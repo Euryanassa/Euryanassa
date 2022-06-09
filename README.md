@@ -58,13 +58,13 @@ Ever since I was kid, technology and science has been my passion. I still rememb
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class DataScientist:
+class MachineLearningEngineer:
     def __init__(self):
         self.name    = "Altemur Celikayar"
-        self.role    = "Machine Learning Engineer"
+        self.role    = "AI Application Engineer @Huawei"
         self.contact = "altemur.celikayar@gmail.com"
-        self.work    = "AI Solutions as ML Engineer"
-        self.learn   = "Road to MLOps"
+        self.work    = "Machine Learning with Big Data"
+        self.learn   = "MLOps & ML Core"
 
 me = DataScientist()
 ```
