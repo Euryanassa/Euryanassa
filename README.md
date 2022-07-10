@@ -6,7 +6,7 @@
 
 - 🎓 I am MSc Machine Learning Engineer | Data Scientist
 
-Ever since I was kid, technology and science has been my passion. I still remember observing many technoligical devices and I was trying to find out, whats the logic behind it and how it really works. This curiosity has pushed me to get into the world of tech and engineering. During the education of my bechalors degree, I have met with signal and image processing. Through these lessons, I had the opportunity to explore the world of Data Science and Machine Learning. Since then, I am improving myself day by day. I always try to move fast, iterate quickly, and solve global problems with Machine Learning. Today, I am working as Machine Learning Engineer in R&D team and Master of Science student at the field of Big Data & Business Analytics at Istanbul Technical University!
+I am MSc Big Data Analytics graduate, Machine Learning Engineer/Data Scientist with approximately two years of work experience. Currently, I am working as an AI Application Engineer at Huawei R&D. I have developed and deployed many projects at the field of Computer Vision, Time Series Forecasting, Big Data Preprocessing & ML and any other Machine Learning and Data Science related topics on AWS, Huawei Cloud, Data Centers, Edge Devices and Servers. Shortly, I am Machine Learning engineer with great knowledge of Big Data Analytics and MLOps concepts. My passion and profession is solve real life problem with my knowledge and make great and shine anything I work with.
 
   
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/AybzWPm64L8AAAAM/chatpark.gif"/>
