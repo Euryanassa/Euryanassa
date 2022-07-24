@@ -67,5 +67,4 @@ class MachineLearningEngineer:
 
 me = MachineLearningEngineer()
 ```
-<img align="right" width="260" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
 
