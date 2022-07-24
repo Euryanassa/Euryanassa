@@ -64,23 +64,9 @@ class MachineLearningEngineer:
         self.role    = "AI Application Engineer @Huawei"
         self.contact = "altemur.celikayar@gmail.com"
         self.work    = "Machine Learning with Big Data"
-        self.learn   = "MLOps & ML Core"
 
 me = MachineLearningEngineer()
 ```
 <h3> 💻 &nbsp;Summary</h3>
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
-
-- 🤠 Languages & Databases: Python, MATLAB, C/C++, SQL, MySQL, MSSQL, MongoDB, Cassandra, Redis 
-
-- 👽 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras, Scikit-Learn, Open-CV, Prophet, NeuralProphet, XGBoost, LGBoost, Statsmodels, SciPy, Pyodbc, Mysql.connector, PyMongo, PyQT5
-
-- 👾 Learning Algorithms and Models: Linear-NonLinear Regression, Loess Regression, Logistic Regression, KNN, Decision Trees, Support Vector Machine, K-Means Clustering, DBSCAN, Aggloremerative Clustering, ANN, DNN, CNN, RNN, LSTM, GRU, Metric Learning, Reinforcement Learning, Generative Adversarial Networks
-
-- 🤖 Computer Vision: Open-CV, Pillow, CNN, Metric Learning, YOLO
-<img align="left" width="260" alt="GIF" src="https://c.tenor.com/MDcGuSztcboAAAAC/stock-market-roller-coaster.gif"/>
-
-- 🎃 Time Series: AR, MA, ARMA, ARIMA, SARIMA, Linear Regression, Random Forest Regressor, Support Vector Regressor, XGBoost, LGBMachine, LSTM, ConvolutionalLSTM, RNN, GRU, CNN, MLP
-
-- 🤡 Other Topics: Recommender Systems, Signal Processing, Audio Signal Processing, Digital Signal Processing, Speech Processing, Financial and Risk Management, Linear Optimization, Integer Optimization, Object Oriented Programming, Database Management and Big Data, Statistics, Data Mining
 
