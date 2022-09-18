@@ -55,13 +55,13 @@ I am MSc Big Data Analytics graduate, Machine Learning Engineer/Data Scientist w
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#!/usr/bin/python3
 
 class MachineLearningEngineer:
     def __init__(self):
         self.name    = "Altemur Celikayar"
-        self.role    = "AI Application Engineer @Huawei"
+        self.role    = "AI Application Engineer"
+        self.company = "Huawei"
         self.contact = "altemur.celikayar@gmail.com"
         self.work    = "Machine Learning with Big Data"
 
