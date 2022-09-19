@@ -48,7 +48,7 @@ I am MSc Big Data Analytics graduate, Machine Learning Engineer/Data Scientist w
 - <img align="left" alt="TsF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659501-2d6364ab-5211-4b5b-91b7-2c0f3aea92da.png" />  **Reinforcement Learning**
 - <img align="left" alt="TdF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659550-b4a62ef9-363b-4ae3-9b22-c0176f8bcc18.png" />  **Audio, Speech and Signal Processing**
 - <img align="left" alt="TwF" width="20px" src="https://user-images.githubusercontent.com/67932543/151659686-e49c7855-e953-465b-b260-e3dee3f9a4e3.png" />  **Database Management(SQL, NoSQL)**
-- <img align="left" alt="TfF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659609-af8f6f19-7976-4bba-ab19-f422a52dd422.png" />  **Web Development with Flask**
+- <img align="left" alt="TfF" width="22px" src="https://user-images.githubusercontent.com/67932543/151659609-af8f6f19-7976-4bba-ab19-f422a52dd422.png" />  **Web Development and Rest API's with Flask**
 
 
 <br/>
