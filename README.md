@@ -4,9 +4,9 @@
 <h3> 💻 &nbsp;About Me</h3>
 
 
-- 🎓 I am MSc Machine Learning Engineer | Data Scientist
+- 🎓 I am MSc Big Data Engineer | Machine Learning Engineer
 
-I am MSc Big Data Analytics graduate, Machine Learning Engineer/Data Scientist with approximately two years of work experience. Currently, I am working as an AI Application Engineer at Huawei R&D. I have developed and deployed many projects at the field of Computer Vision, Time Series Forecasting, Big Data Preprocessing & ML and any other Machine Learning and Data Science related topics on AWS, Huawei Cloud, Data Centers, Edge Devices and Servers. Shortly, I am Machine Learning engineer with great knowledge of Big Data Analytics and MLOps concepts. My passion and profession is solve real life problem with my knowledge and make great and shine anything I work with.
+I am MSc Big Data Analytics graduate, Big Data Engineer/Machine Learning Engineer with approximately two years of work experience. Currently, I am working as an Big Data Engineer at GarantiBBVA Teknoloji. I have developed and deployed many projects at the field of Computer Vision, Time Series Forecasting, Big Data Processing & ML and any other Big Data, Machine Learning and Data Science related topics on AWS, Huawei Cloud, Data Centers, Edge Devices and Servers. Shortly, I am Big Data Engineer with extensive knowledge of Machine Learning and MLOps concepts. My passion and profession is to solve real life problem with my knowledge and make great and shine anything I work with.
 
   
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/AybzWPm64L8AAAAM/chatpark.gif"/>
@@ -60,8 +60,8 @@ I am MSc Big Data Analytics graduate, Machine Learning Engineer/Data Scientist w
 class MachineLearningEngineer:
     def __init__(self):
         self.name    = "Altemur Celikayar"
-        self.role    = "AI Application Engineer"
-        self.company = "Huawei"
+        self.role    = "Big Data Engineer"
+        self.company = "GarantiBBVA"
         self.contact = "altemur.celikayar@gmail.com"
         self.work    = "Machine Learning with Big Data"
 
