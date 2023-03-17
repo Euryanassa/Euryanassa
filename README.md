@@ -73,12 +73,6 @@ I am MSc Big Data Analytics graduate, Big Data Engineer/Machine Learning Enginee
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)
   ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/67932543/151657856-e08132d3-337e-4f6d-97d1-e243678c38ff.svg)
-
-
-
-
-<br/>
-
 <img align="left" width="400" alt="GIF" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4767nk0drj4rjlbzcizs8nmzqyg8mpcd9elo5pabyw&rid=giphy.gif&ct=g"/>
 
 
