@@ -85,7 +85,7 @@ I am MSc Big Data Analytics graduate, Big Data Engineer/Machine Learning Enginee
 class MachineLearningEngineer:
     def __init__(self):
         self.name    = "Altemur Celikayar"
-        self.role    = "Big Data Engineer"
+        self.role    = "Data Scientist"
         self.company = "GarantiBBVA"
         self.contact = "altemur.celikayar@gmail.com"
         self.work    = "Machine Learning in Production with Big Data"
