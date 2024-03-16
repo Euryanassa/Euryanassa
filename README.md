@@ -6,7 +6,7 @@
 
 - 🎓 I am MSc Big Data Engineer | Machine Learning Engineer
 
-I am MSc Big Data Analytics graduate, Big Data Engineer/Machine Learning Engineer with approximately two years of work experience. Currently, I am working as an Big Data Engineer at GarantiBBVA Teknoloji. I have developed and deployed many projects at the field of Computer Vision, Time Series Forecasting, Big Data Processing & ML and any other Big Data, Machine Learning and Data Science related topics on AWS, Huawei Cloud, Data Centers, Edge Devices and Servers. Shortly, I am Big Data Engineer with extensive knowledge of Machine Learning and MLOps concepts. My passion and profession is to solve real life problem with my knowledge and make great and shine anything I work with.
+I am MSc Big Data Analytics graduate, Big Data Engineer/Machine Learning Engineer with approximately three years of work experience. Currently, I am working as Data Scientist at GarantiBBVA Teknoloji. I have developed and deployed many projects at the field of Computer Vision, Time Series Forecasting, Big Data Processing & ML and any other Big Data, Machine Learning and Data Science related topics on AWS, Huawei Cloud, Data Centers, Edge Devices and Servers. Shortly, I am Big Data Engineer with extensive knowledge of Machine Learning and MLOps concepts. My passion and profession is to solve real life problem with my knowledge and make great and shine anything I work with.
 
   
 <img align="right" width="260" alt="GIF" src="https://c.tenor.com/AybzWPm64L8AAAAM/chatpark.gif"/>
